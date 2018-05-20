@@ -1,0 +1,4 @@
+#Sun May 20 18:27:29 AEST 2018
+base.0=/Users/ankireds/Downloads/theLotto/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

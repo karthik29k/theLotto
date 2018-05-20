@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/12de8c52e6fa908faf044f2ba9bb896d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/de0f46818b566c0005dfa16de62cab7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f50bb30effbfa5b1fc92df5b16e9c2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2f9375fc06862605f17ccd3b084aa3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/452deaa9d8b6d2e3101f891285398b6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6395e81276b508853a1f3a7fd60aab7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeaa4792ae6159bcd68b977ce1108209/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a1163347e81337be76fdc96c7522b28e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71421dc8d77937538818fe4eb0292d05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2ccc5d9d3623f9ace62647346d531786/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:9:5-24:19
+	android:label
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:10:9-63
+activity#info.karthik.theLotto.MainActivity
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:16:13-62
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/12de8c52e6fa908faf044f2ba9bb896d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/12de8c52e6fa908faf044f2ba9bb896d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/de0f46818b566c0005dfa16de62cab7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/de0f46818b566c0005dfa16de62cab7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f50bb30effbfa5b1fc92df5b16e9c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9f50bb30effbfa5b1fc92df5b16e9c2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2f9375fc06862605f17ccd3b084aa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2f9375fc06862605f17ccd3b084aa3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/452deaa9d8b6d2e3101f891285398b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/452deaa9d8b6d2e3101f891285398b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6395e81276b508853a1f3a7fd60aab7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6395e81276b508853a1f3a7fd60aab7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeaa4792ae6159bcd68b977ce1108209/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/eeaa4792ae6159bcd68b977ce1108209/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a1163347e81337be76fdc96c7522b28e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/a1163347e81337be76fdc96c7522b28e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71421dc8d77937538818fe4eb0292d05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71421dc8d77937538818fe4eb0292d05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2ccc5d9d3623f9ace62647346d531786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ankireds/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2ccc5d9d3623f9ace62647346d531786/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ankireds/Downloads/theLotto/app/src/main/AndroidManifest.xml
